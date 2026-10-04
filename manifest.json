@@ -1,0 +1,11 @@
+{
+  "name": "C Plus Liberación Prolongada · Nutrilite — Pide con Harold",
+  "short_name": "C Plus",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#7A1420",
+  "theme_color": "#7A1420",
+  "lang": "es-CO",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
